@@ -1,4 +1,3 @@
-@'
 # Tesis: Análisis de datos aplicado al tueste de café
 
 Proyecto de tesis para el seminario de la carrera **Técnico Superior en Ciencia de Datos e Inteligencia Artificial**. Busca determinar si existe una problemática real en el rubro del tueste de café en Argentina y, si existe, diseñar una solución con herramientas de análisis de datos e inteligencia artificial de la carrera.
